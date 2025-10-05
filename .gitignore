@@ -1,0 +1,22 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+*.log
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+/output.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# System
+.DS_Store
+Thumbs.db
