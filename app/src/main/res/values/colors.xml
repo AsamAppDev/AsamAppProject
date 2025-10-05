@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Medium_Purple_500">#8A86FF</color>
+    <color name="Medium_Purple_700">#0800e3</color>
+    <color name="Medium_Purple_900">#05033f</color>
+    <color name="Medium_Purple_400">#9f9bff</color>
+    <color name="Medium_Purple_300">#b3b0ff</color>
+    <color name="Medium_Purple_100">#dfdefb</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
